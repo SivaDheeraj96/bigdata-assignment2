@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="csvjdbc-1.0.40">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Software/tomcat9/lib/csvjdbc-1.0.40.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
